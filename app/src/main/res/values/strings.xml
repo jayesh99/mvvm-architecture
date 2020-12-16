@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Application</string>
+    <string name="no_internet">Internet connection not available</string>
+    <string name="error_comman">Something went wrong please try again later</string>
+    <string name="user_list">User List</string>
+
+</resources>
